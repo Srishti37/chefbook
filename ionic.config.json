@@ -1,0 +1,8 @@
+{
+  "name": "CHEFBOOK",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d4b4adc6"
+}
